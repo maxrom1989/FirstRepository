@@ -1,0 +1,47 @@
+[33mcommit 0b91a66686117bc59e5ee0f1e434d8588ce114ac[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: MaximR <maxik@romanenko.ru>
+Date:   Tue Mar 7 15:53:05 2023 +0100
+
+    user2 change file2
+
+[33mcommit a956d6729818ed6ba030050b39440680cfc6d337[m
+Author: MaximR <maxik@romanenko.ru>
+Date:   Mon Mar 6 23:01:11 2023 +0100
+
+    another change
+
+[33mcommit 11ef07a1bad6f51e42bff720a8ebd15b4208a488[m
+Author: MaximR <maxik@romanenko.ru>
+Date:   Mon Mar 6 22:11:47 2023 +0100
+
+    add good bye to file1
+
+[33mcommit a61b25c04f95141cf0d14e02e31a43124fc30bb8[m
+Author: MaximR <maxik@romanenko.ru>
+Date:   Mon Mar 6 21:21:59 2023 +0100
+
+    change file1
+
+[33mcommit fd50d211822ad07bf9a4af02cae31e3368d9b548[m
+Author: MaximR <maxik@romanenko.ru>
+Date:   Mon Mar 6 19:46:51 2023 +0100
+
+    return file1 to its original state
+
+[33mcommit 313d2625834ae8c1a2007421d26d0634f4455e9a[m
+Author: MaximR <maxik@romanenko.ru>
+Date:   Mon Mar 6 19:07:50 2023 +0100
+
+    change file2
+
+[33mcommit 396d72505066ddbd6799f2705e0307f1904b603c[m
+Author: MaximR <maxik@romanenko.ru>
+Date:   Mon Mar 6 18:08:55 2023 +0100
+
+    Change file1 and add file2
+
+[33mcommit d73c325a0759e1eb191ff6ef486338eacd1b2a00[m
+Author: MaximR <maxik@romanenko.ru>
+Date:   Mon Mar 6 18:04:43 2023 +0100
+
+    Add file1
